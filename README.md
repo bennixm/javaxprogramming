@@ -37,18 +37,18 @@ This repository is a practice workspace where i can upload and manage my program
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/university-practice-repo.git
+   git clone https://github.com/bennixm/javaxprogramming.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd university-practice-repo
+   cd javaxprogramming
    ```
 3. Ensure you have Java installed on your system.
    - [Download and Install Java](https://www.oracle.com/java/technologies/javase-downloads.html)
 4. Compile and run Java files using the following commands:
    ```bash
-   javac FileName.java
-   java FileName
+   javac Exercise.java
+   java Exercise
    ```
 
 ## How to Contribute
