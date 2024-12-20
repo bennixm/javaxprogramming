@@ -1,6 +1,6 @@
 # Practice Repository for University
 
-Welcome to the GitHub repository for our university practice project! This repository is designed to help our teacher monitor individual progress and provide a collaborative space for students. It contains Java exercises and other materials to reinforce programming and version control skills.
+Welcome to the GitHub repository for our university practice! This repository is designed to help our teacher monitor individual progress and provide a collaborative space for me. It contains Java exercises and other materials to reinforce programming and version control skills.
 
 ## Table of Contents
 
@@ -9,11 +9,10 @@ Welcome to the GitHub repository for our university practice project! This repos
 3. [Features](#features)
 4. [Setup and Installation](#setup-and-installation)
 5. [How to Contribute](#how-to-contribute)
-6. [License](#license)
 
 ## Introduction
 
-This repository is a practice workspace where students can upload and manage their programming assignments and exercises. The focus is on Java programming, with an emphasis on building strong foundational skills. The repository also enables the instructor and fellow students to review and provide feedback on the work.
+This repository is a practice workspace where i can upload and manage my programming assignments and exercises. The focus is on Java programming, with an emphasis on building strong foundational skills. The repository also enables the instructor and fellow students to review and provide feedback on the work.
 
 ## Project Goals
 
@@ -71,11 +70,7 @@ Students can contribute by following these steps:
    ```
 5. Open a pull request for review by the teacher or classmates.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ---
 
-Happy coding! If you have any questions, feel free to reach out to the teacher or use the repository's Issues section to discuss.
+ If you have any questions, feel free to reach me out or use the repository's Issues section to discuss.
 
