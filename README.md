@@ -1,4 +1,4 @@
-# Practice Repository for University
+# Practice Repository for DHBW
 
 Welcome to the GitHub repository for our university practice! This repository is designed to help our teacher monitor individual progress and provide a collaborative space for me. It contains Java exercises and other materials to reinforce programming and version control skills.
 
