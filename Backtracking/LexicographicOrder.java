@@ -10,7 +10,7 @@ public class LexicographicOrder {
     static int n = 0;
     static long s;
 
-    static void afisare(int k) {
+    static void displayArray(int k) {
         for (int i = 1; i <= k; i++) {
             System.out.print(D[X[i]] + " ");
         }
@@ -23,7 +23,7 @@ public class LexicographicOrder {
             pp *= D[X[k]];
             if (pp <= s) {
                 if (pp == s) {
-                    afisare(k);
+                    displayArray(k);
                 } else {
                     back(k + 1, pp);
                 }
@@ -48,7 +48,7 @@ public class LexicographicOrder {
         }
 
         if (divisors.isEmpty()) {
-            System.out.println("NU EXISTA");
+            System.out.println("doesn't exists");
         } else {
             Collections.sort(divisors);
 
