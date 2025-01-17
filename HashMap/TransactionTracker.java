@@ -1,4 +1,4 @@
-package ArrayList;
+package HashMap;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -71,8 +71,9 @@ public class TransactionTracker {
 
         long currentTime = System.currentTimeMillis();
         long yesterdayMillis = currentTime - oneDayMillis;
-        Date yesterday = new Date(yesterdayMillis);
         
+        Date yesterday = new Date(yesterdayMillis);
+
         return dateFormat.format(yesterday);
     }
 
