@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.InventoryTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-06-12T14:11:55" hostname="D5P6YF16YV" time="0.013">
+  <properties/>
+  <testcase name="testEmptyInventory()" classname="org.example.InventoryTest" time="0.007"/>
+  <testcase name="testAddProductIncreasesQuantity()" classname="org.example.InventoryTest" time="0.004"/>
+  <testcase name="testInventoryConstructorWithList()" classname="org.example.InventoryTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

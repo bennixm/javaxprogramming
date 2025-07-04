@@ -1,4 +1,4 @@
-package Strings of characters;
+package Strings; of characters;
 
 public class WordSuffixChecker {
     public static void main(String[] args) {

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class Exercises 12.2024" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dynamic memory allocation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Dynamic programming" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Recursive Functions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Strings of characters" isTestSource="false" packagePrefix="Strings" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
